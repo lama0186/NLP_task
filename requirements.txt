@@ -1,0 +1,6 @@
+openai-whisper
+cohere
+python-dotenv
+pyttsx3
+SpeechRecognition
+ffmpeg-python
