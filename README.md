@@ -19,4 +19,11 @@ This project converts audio input to text using Whisper, generates a response us
 
 1. Clone this repository or download the source code.
 
-2. Install required Python packages:
+2. Install required Python packages: requirements.txt
+
+ ## Notes
+The .env file is included in .gitignore to keep your API key secure.
+
+Whisper may show a warning about FP16 not supported on CPU; this is normal if you are running on CPU.
+
+Make sure you have a stable internet connection to use Cohere's API.
